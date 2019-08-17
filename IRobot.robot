@@ -1,4 +1,7 @@
 *** Settings ***
-Library    SeleniumLibrary    
-Library    Selenium2Library    
+Library  Selenium2Library
+Library  SeleniumLibrary
 *** Variables ***
+*** Test Cases ***
+Message
+    log to console  Hello Boss!

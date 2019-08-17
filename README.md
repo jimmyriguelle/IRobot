@@ -5,4 +5,4 @@ Using :
 * Eclipse and RED IDE
 * PyCharm
 * Git
-* Jenkinss
+* Jenkins
