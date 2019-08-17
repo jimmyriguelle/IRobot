@@ -1,5 +1,6 @@
 # IRobot
-Project with Robot Framework using 
+Project with Robot Framework 
+Using :
 * Eclipse and RED IDE,
 * PyCharm,
 * Git,
