@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot rpa="false" generated="20190818 05:24:19.396" generator="Robot 3.1.2 (Python 2.7.16 on win32)">
+<suite source="C:\Users\jimmy\eclipse-workspace\IRobot\Tests\IRobot.robot" id="s1" name="IRobot">
+<test id="s1-t1" name="Message">
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>Hello Boss il est 5h!</arg>
+</arguments>
+<status status="PASS" endtime="20190818 05:24:19.649" starttime="20190818 05:24:19.649"></status>
+</kw>
+<status status="PASS" endtime="20190818 05:24:19.649" critical="yes" starttime="20190818 05:24:19.648"></status>
+</test>
+<status status="PASS" endtime="20190818 05:24:19.650" starttime="20190818 05:24:19.397"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="0" pass="1">Critical Tests</stat>
+<stat fail="0" pass="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat fail="0" id="s1" name="IRobot" pass="1">IRobot</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
