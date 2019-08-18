@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot rpa="false" generated="20190818 05:47:53.017" generator="Robot 3.1.2 (Python 2.7.16 on win32)">
+<robot rpa="false" generated="20190818 05:59:12.277" generator="Robot 3.1.2 (Python 2.7.16 on win32)">
 <suite source="C:\Users\jimmy\eclipse-workspace\IRobot\IRobot.robot" id="s1" name="IRobot">
 <test id="s1-t1" name="Message">
 <kw name="Log To Console" library="BuiltIn">
@@ -7,11 +7,11 @@
 <arguments>
 <arg>Hello Boss il est 5h!</arg>
 </arguments>
-<status status="PASS" endtime="20190818 05:47:53.278" starttime="20190818 05:47:53.278"></status>
+<status status="PASS" endtime="20190818 05:59:12.605" starttime="20190818 05:59:12.604"></status>
 </kw>
-<status status="PASS" endtime="20190818 05:47:53.278" critical="yes" starttime="20190818 05:47:53.277"></status>
+<status status="PASS" endtime="20190818 05:59:12.606" critical="yes" starttime="20190818 05:59:12.604"></status>
 </test>
-<status status="PASS" endtime="20190818 05:47:53.279" starttime="20190818 05:47:53.020"></status>
+<status status="PASS" endtime="20190818 05:59:12.608" starttime="20190818 05:59:12.280"></status>
 </suite>
 <statistics>
 <total>
